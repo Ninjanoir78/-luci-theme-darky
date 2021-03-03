@@ -1,2 +1,2 @@
-# luci-theme-opentomato
-Advanced Tomato Material Theme for OpenWrt
+# luci-theme-darky
+Dark matter Material Theme for OpenWrt
